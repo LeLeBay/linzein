@@ -9,4 +9,6 @@
 ### QuantumultX
     https://raw.githubusercontent.com/LeLeBay/linzein/main/Qx.conf
     
+### LOON
+    https://raw.githubusercontent.com/LeLeBay/linzein/loon/loon.conf
 后续加入更多代理配置，敬请期待！
